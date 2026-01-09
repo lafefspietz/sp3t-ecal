@@ -7,7 +7,7 @@ Open source MEMS-based single pole three throw circuit board with improved imped
  - [SP3TECAL.kicad_pro](SP3TECAL.kicad_pro)
  - [MM5230-03NDB-TR.lib](MM5230-03NDB-TR.lib)
  - [lafe_spietz_library.kicad_sym](lafe_spietz_library.kicad_sym)
- 
+
 
 ## Screen shot of schematic draft:
 
@@ -16,3 +16,7 @@ Open source MEMS-based single pole three throw circuit board with improved imped
 ## Screen shot of layout draft:
 
 ![](layout.png)
+
+## Screen shot of 3d:
+
+![](3d.png)

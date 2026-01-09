@@ -1,0 +1,152 @@
+(footprint ""
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6558df39-8088-482f-9f66-62f2e1c93dfd")
+		(effects
+			(font (size 1 1) (line_spacing 0) (thickness 0.15))
+		)
+	)
+	(property "Value" "PANEL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4b7cf823-7276-47bd-b0ab-8ec3f381ca74")
+		(effects
+			(font (size 1 1) (line_spacing 0) (thickness 0.15))
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d8dce156-1e8c-4f5c-a4c6-56734f37d829")
+		(effects
+			(font (size 1 1) (line_spacing 0) (thickness 0.15))
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a0b85298-d46c-4714-9cf9-61d7c5c72f98")
+		(effects
+			(font (size 1 1) (line_spacing 0) (thickness 0.15))
+		)
+	)
+	(attr smd board_only)
+	(fp_poly
+		(pts
+			(xy 3.482335 2.55) (xy -0.1 2.55) (xy -0.1 1.1778) (xy 0 1.1778) (xy 1 1.1778) (xy 1 0.8222) (xy 0 0.8222)
+			(xy 0 1.1778) (xy -0.1 1.1778) (xy -0.1 -0.8222) (xy 0 -0.8222) (xy 1 -0.8222) (xy 1 -1.1778) (xy 0 -1.1778)
+			(xy 0 -0.8222) (xy -0.1 -0.8222) (xy -0.1 -2.55) (xy 3.482335 -2.55)
+		)
+		(stroke (width 0) (type default))
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "cdabe020-b4a2-49c3-b62e-c482dd544c2e")
+	)
+	(pad "1" smd custom
+		(at 1 0)
+		(size 0.05 0.05)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.15 -0.2) (xy 0.08 -0.2) (xy 0.08 -0.363) (xy 2.382 -0.363) (xy 2.382 0.363) (xy 0.08 0.363)
+					(xy 0.08 0.2) (xy -0.15 0.2) (xy -0.15 0.55) (xy -0.924 0.55) (xy -0.924 -0.55) (xy -0.15 -0.55)
+					(xy -0.15 -0.2)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "de64a031-f296-4557-87e6-7cbb857a8973")
+	)
+	(pad "2" smd custom
+		(at 1 -1)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 2.382 -1.45) (xy 2.382 0.436999) (xy 0.08 0.436999) (xy 0.08 0.15) (xy -1 0.15) (xy -1 -1.45)
+					(xy 2.382 -1.45)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(tenting none)
+		(uuid "d7667494-9796-4182-b39c-304e49bf2e73")
+	)
+	(pad "2" smd custom
+		(at 1 1)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.08 -0.436999) (xy 2.382 -0.436999) (xy 2.382 1.45) (xy -1 1.45) (xy -1 -0.15) (xy 0.08 -0.15)
+					(xy 0.08 -0.436999)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(tenting none)
+		(uuid "3c55ee60-19d4-42bc-ac9a-95ba163a5e13")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "143a2b6c-59e4-4a7b-8163-6510b6b88e50")
+		(name "Panel Keepout")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
+		(polygon
+			(pts
+				(xy 0 -1.7) (xy 3.282334 -1.7) (xy 3.282334 1.7) (xy 0 1.7)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

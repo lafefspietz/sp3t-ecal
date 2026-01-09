@@ -2162,6 +2162,12 @@
 		(uuid "92e65e1a-4455-42af-b130-6ab048955afe")
 	)
 	(junction
+		(at 105.41 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98228b95-e592-487d-ab43-d06739564688")
+	)
+	(junction
 		(at 114.3 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2198,10 +2204,22 @@
 		(uuid "dea81896-4deb-4980-b461-74b7bcd0556a")
 	)
 	(junction
+		(at 130.81 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e12c9710-d7b9-4fdd-961b-c57b1968349e")
+	)
+	(junction
 		(at 167.64 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e20a3cc5-8bcf-423d-baa2-d266e3a6f8c0")
+	)
+	(junction
+		(at 157.48 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3342532-32d3-4b67-801d-6e4539a823e1")
 	)
 	(junction
 		(at 59.69 74.93)
@@ -3664,6 +3682,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 138.43 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d7c0fa0-90dc-4c81-af98-c89e846da185")
+		(property "Reference" "#PWR028"
+			(at 144.78 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.24 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62a437cd-a594-4cf5-bbbc-efb955e74c72")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_Coaxial")
 		(at 130.81 36.83 90)
 		(unit 1)
@@ -3797,6 +3882,72 @@
 			(project "SP3TECAL"
 				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2917e3cb-e3ec-4b80-afa9-a0f4b22b2cf3")
+		(property "Reference" "#PWR029"
+			(at 157.48 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "075850dd-1c5e-4edb-86f8-5c24f32d1ac8")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -4668,6 +4819,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 134.62 93.98 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "756fd203-d5f6-405a-9c90-8c383c00ac3e")
+		(property "Reference" "R5"
+			(at 134.62 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "56k"
+			(at 134.62 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 134.62 92.202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 134.62 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "35eafaf9-3647-4ec3-89fb-284205bd2429")
+		)
+		(pin "1"
+			(uuid "9cbbb055-d225-4a52-9a51-648675707593")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MM5230-03NDB-TR:MM5230-03NDB-TR")
 		(at 182.88 68.58 0)
 		(unit 1)
@@ -5074,6 +5293,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 157.48 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85f268ac-d940-47fd-a1b0-f578c6530edc")
+		(property "Reference" "R6"
+			(at 151.13 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "56k"
+			(at 153.67 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 159.258 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 157.48 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "55a350a5-d1fe-4bcd-b92f-aed3438ecb16")
+		)
+		(pin "1"
+			(uuid "5f77f9f1-dc28-4c3b-b4fa-88ce773c640e")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 78.74 104.14 0)
 		(unit 1)
@@ -5470,6 +5757,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 105.41 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b66a714d-3e52-431d-96f3-e061da39acaf")
+		(property "Reference" "R4"
+			(at 99.06 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "56k"
+			(at 101.6 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 107.188 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4d20a914-1ae5-4544-90bc-d12a1629ceff")
+		)
+		(pin "1"
+			(uuid "d2e0fce0-a6ea-4a2c-8c85-3b01734cec90")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MM5230-03NDB-TR:MM5230-03NDB-TR")
 		(at 78.74 68.58 0)
 		(unit 1)
@@ -5663,6 +6018,72 @@
 			(project "SP3TECAL"
 				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
 					(reference "IC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 105.41 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb0cade3-7946-482c-8167-83545134e350")
+		(property "Reference" "#PWR027"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cf4b65d-0897-4eba-aee1-d1f6c1fc0a1b")
+		)
+		(instances
+			(project "SP3TECAL"
+				(path "/27633a03-897e-4d8a-8472-386b3ffbd891"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
