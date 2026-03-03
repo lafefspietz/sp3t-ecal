@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "MM5800-altium-import")(type "KiCad")(uri "${KIPRJMOD}/MM5800-altium-import.kicad_sym")(options "")(descr ""))
+)

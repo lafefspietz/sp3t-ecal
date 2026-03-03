@@ -412,7 +412,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "6156c61f-8e79-46b3-b595-48ff1cfceb30")
 		)
 		(pad "2" thru_hole circle
 			(at 1.016 -5.461 180)
@@ -423,7 +423,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "fcaada72-0cfe-439f-92b1-d58cd24aaa0e")
 		)
 		(pad "2" thru_hole circle
 			(at 1.016 5.334 180)
@@ -434,7 +434,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "432d52d6-c3e4-4bd7-adad-231962d44f37")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 -3.175 180)
@@ -445,7 +445,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "ba661958-686a-4ad2-aff4-0115a7ec5e57")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 -1.905 180)
@@ -456,7 +456,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "889c2d95-43bb-4839-aa7e-708ee8ca7546")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 1.905 180)
@@ -467,7 +467,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "1122af5e-4e3a-49d5-99e3-eec6ba490c1b")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 3.175 180)
@@ -478,7 +478,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "8cafae83-3e46-48f3-a42b-fde9ac769971")
 		)
 		(pad "2" thru_hole circle
 			(at 1.905 -1.905 180)
@@ -489,7 +489,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "d3ef214a-77e1-4fb0-8e87-b6eab60cd4b3")
 		)
 		(pad "2" thru_hole circle
 			(at 1.905 1.905 180)
@@ -500,7 +500,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "df51d073-0831-4eca-a557-b004873e0041")
 		)
 		(pad "2" smd rect
 			(at 2.3495 -3.7465 180)
@@ -520,7 +520,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "374f2b93-06d7-4fcf-a9d9-03f71b7ff99d")
 		)
 		(pad "2" smd rect
 			(at 2.3495 -3.429 180)
@@ -540,7 +540,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "23590e6b-f2b8-4def-9951-3f0c7d438bcf")
 		)
 		(pad "2" smd rect
 			(at 2.3495 2.794 180)
@@ -560,7 +560,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "4a58207a-bbcc-40c0-abb4-f0394a05dd65")
 		)
 		(pad "2" smd rect
 			(at 2.3495 3.7465 180)
@@ -580,7 +580,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "d258cf7d-75cd-4edc-9b55-775536142073")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -1.905 180)
@@ -591,7 +591,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "8db0fcdd-aa5a-4b67-a277-93fd7362f146")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 1.905 180)
@@ -602,7 +602,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "c6da7c2e-1113-47de-842c-08ba0b733958")
 		)
 		(pad "2" thru_hole circle
 			(at 2.794 -4.7625 180)
@@ -613,7 +613,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "17cc7ddb-e821-46e2-947c-6373604fd558")
 		)
 		(pad "2" thru_hole circle
 			(at 2.794 4.7625 180)
@@ -624,7 +624,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "b055ea75-a03f-4541-9629-70a7c04ce43d")
 		)
 		(pad "2" thru_hole circle
 			(at 3.175 -1.905 180)
@@ -635,7 +635,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "e4b7c2a3-34f4-4f58-b28e-af43fcffc4d6")
 		)
 		(pad "2" thru_hole circle
 			(at 3.175 1.905 180)
@@ -646,7 +646,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "f809cc94-a800-46ea-a5d0-e6b83cec3de4")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 -3.175 180)
@@ -657,7 +657,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "11043ec4-24f2-4d5c-bb92-15bc054fc7c1")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 -1.905 180)
@@ -668,7 +668,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "6bd1f9c9-dff3-4622-b1d7-45dd4bf50946")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 1.905 180)
@@ -679,7 +679,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "3594e019-f3ba-43a8-9037-0f77ecb4950a")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 3.175 180)
@@ -690,7 +690,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "d7781764-7e2f-4ef0-b507-068635fce091")
+			(uuid "a3800c05-141d-4f5c-9eed-f8574627b1a5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-1153_EdgeMount_Horizontal.step"
@@ -1036,7 +1036,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "790c738a-004a-44dc-9175-43641c2ae6b4")
 		)
 		(pad "2" thru_hole circle
 			(at 1.016 -5.461)
@@ -1047,7 +1047,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "e44a0ed8-6f26-416d-bb55-f5a3b5be3231")
 		)
 		(pad "2" thru_hole circle
 			(at 1.016 5.334)
@@ -1058,7 +1058,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "5d0e8a11-a16d-4d09-827d-bd86c163fdfe")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 -3.175)
@@ -1069,7 +1069,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "003fc507-25e1-45c6-b863-c0f886614163")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 -1.905)
@@ -1080,7 +1080,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "d2e6589b-be24-4967-942b-5f9d81b9d1ef")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 1.905)
@@ -1091,7 +1091,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "63751e5b-a5bb-4baf-a7c9-e065e70589bc")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 3.175)
@@ -1102,7 +1102,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "a7d9caee-a1a6-48cb-8c97-cd77d683e022")
 		)
 		(pad "2" thru_hole circle
 			(at 1.905 -1.905)
@@ -1113,7 +1113,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "872984af-8540-4184-901c-2b8ff0df2e65")
 		)
 		(pad "2" thru_hole circle
 			(at 1.905 1.905)
@@ -1124,7 +1124,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "423ea6a8-c46e-4065-b761-3742ed42f2cd")
 		)
 		(pad "2" smd rect
 			(at 2.3495 -3.7465)
@@ -1144,7 +1144,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "bacfd61a-c2f3-4436-9915-ed9377381576")
 		)
 		(pad "2" smd rect
 			(at 2.3495 -3.429)
@@ -1164,7 +1164,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "0cf3e950-acd9-4300-8285-4c63c33cce13")
 		)
 		(pad "2" smd rect
 			(at 2.3495 2.794)
@@ -1184,7 +1184,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "d016f90e-915b-4477-ba21-cceda6ce73e8")
 		)
 		(pad "2" smd rect
 			(at 2.3495 3.7465)
@@ -1204,7 +1204,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "50446eca-b197-49b9-b92f-045611f74dc9")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -1.905)
@@ -1215,7 +1215,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "59a64b8a-f7f1-4c9c-b5f0-5b92dc531bd7")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 1.905)
@@ -1226,7 +1226,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "91fb93e3-fc20-4a35-ab22-23f59e29c6dc")
 		)
 		(pad "2" thru_hole circle
 			(at 2.794 -4.7625)
@@ -1237,7 +1237,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "e2349038-64a2-4f9a-9cb4-b96f5e41bdf0")
 		)
 		(pad "2" thru_hole circle
 			(at 2.794 4.7625)
@@ -1248,7 +1248,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "2ac03c83-e3dc-4303-b9a9-833406a69c57")
 		)
 		(pad "2" thru_hole circle
 			(at 3.175 -1.905)
@@ -1259,7 +1259,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "ed6c8762-4b32-43e9-91b6-6050a8968db6")
 		)
 		(pad "2" thru_hole circle
 			(at 3.175 1.905)
@@ -1270,7 +1270,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "3f39c681-8cb3-41cd-bffe-e648dd6d450a")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 -3.175)
@@ -1281,7 +1281,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "34f75440-0871-44fa-bca0-3e118a4fd85f")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 -1.905)
@@ -1292,7 +1292,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "7ee503d6-3b60-435f-91fa-74a28899a7e0")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 1.905)
@@ -1303,7 +1303,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "7625ec56-7e62-409e-a28b-792324187fbe")
 		)
 		(pad "2" thru_hole circle
 			(at 3.81 3.175)
@@ -1314,7 +1314,7 @@
 			(net 1 "GND")
 			(pinfunction "Ext")
 			(pintype "passive")
-			(uuid "385cf544-daf0-4935-98cd-18191c8e7e29")
+			(uuid "653981a1-1443-44ba-ad59-bd7dc52e78a6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-1153_EdgeMount_Horizontal.step"
@@ -2606,36 +2606,115 @@
 		(uuid "fe5f506e-cc7a-428a-bac3-f926b3964848")
 	)
 	(segment
-		(start 166.641558 125.4)
-		(end 165.494 125.4)
-		(width 0.2)
+		(start 153.175 125.4)
+		(end 165.6972 125.4)
+		(width 0.94742)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "24fe2aa0-eb13-48d6-994a-061c69254e0f")
+		(uuid "0d3ce51b-5809-41eb-856b-ad0f5ae71543")
 	)
 	(segment
 		(start 179.845 125.4)
-		(end 167.786 125.4)
+		(end 167.5768 125.4)
 		(width 0.94742)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "4b3af65e-c8dc-4f2c-845e-e4a85c99b6fa")
+		(uuid "37fc9862-fac7-4e6f-b788-e5e52b2f482d")
 	)
 	(segment
 		(start 166.638442 125.4)
-		(end 167.786 125.4)
+		(end 167.5768 125.4)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "4c96fa80-4a29-4896-aeaf-2d56766658ff")
+		(uuid "62cb5321-aebe-46d4-866e-e8c2752e8a88")
 	)
 	(segment
-		(start 153.175 125.4)
-		(end 165.494 125.4)
-		(width 0.94742)
+		(start 166.641558 125.4)
+		(end 165.6972 125.4)
+		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "717ed197-5fb0-4e34-805f-17976d80e1f8")
+		(uuid "9488b319-8f3a-43ca-97b8-5f7d75a8a3ba")
+	)
+	(zone
+		(net 2)
+		(net_name "Net-(J2-In)")
+		(layer "F.Cu")
+		(uuid "4c38b7ba-d042-4330-bdbe-593a93243501")
+		(name "$teardrop_track$")
+		(hatch none 0.1)
+		(priority 30001)
+		(attr
+			(teardrop
+				(type track_end)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 166.635518 125.5) (xy 166.635518 125.3) (xy 165.960379 125.006125) (xy 165.6962 125.4) (xy 165.960379 125.793875)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 165.969326 125.010019) (xy 166.628489 125.29694) (xy 166.634706 125.303383) (xy 166.635518 125.307667)
+				(xy 166.635518 125.492332) (xy 166.632091 125.500605) (xy 166.628488 125.50306) (xy 165.969328 125.789979)
+				(xy 165.960374 125.790139) (xy 165.954941 125.785768) (xy 165.763677 125.500605) (xy 165.70057 125.406516)
+				(xy 165.698809 125.397738) (xy 165.700571 125.393483) (xy 165.758129 125.307667) (xy 165.954943 125.014229)
+				(xy 165.962396 125.009269)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "Net-(J2-In)")
+		(layer "F.Cu")
+		(uuid "52c57407-06b1-4c62-aafc-a2d4589c4709")
+		(name "$teardrop_track$")
+		(hatch none 0.1)
+		(priority 30000)
+		(attr
+			(teardrop
+				(type track_end)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 166.638482 125.3) (xy 166.638482 125.5) (xy 167.313621 125.793875) (xy 167.5778 125.4) (xy 167.313621 125.006125)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 167.319058 125.014231) (xy 167.573428 125.393483) (xy 167.57519 125.402262) (xy 167.573428 125.406517)
+				(xy 167.319058 125.785768) (xy 167.311603 125.79073) (xy 167.304671 125.789979) (xy 166.645512 125.50306)
+				(xy 166.639294 125.496616) (xy 166.638482 125.492332) (xy 166.638482 125.307667) (xy 166.641909 125.299394)
+				(xy 166.645508 125.296941) (xy 167.304672 125.010019) (xy 167.313625 125.00986)
+			)
+		)
 	)
 	(zone
 		(net 1)
@@ -2661,33 +2740,34 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 167.202124 125.672585) (xy 167.238187 125.708009) (xy 167.299279 125.799441) (xy 167.386555 125.886717)
-				(xy 167.386563 125.886723) (xy 167.489187 125.955294) (xy 167.48919 125.955296) (xy 167.60322 126.002528)
-				(xy 167.603225 126.00253) (xy 167.724279 126.026609) (xy 167.724283 126.02661) (xy 167.724284 126.02661)
-				(xy 179.95807 126.02661) (xy 179.958079 126.026609) (xy 183.07941 126.026609) (xy 183.146449 126.046294)
-				(xy 183.192204 126.099098) (xy 183.203403 126.151887) (xy 183.149579 131.372778) (xy 183.129205 131.439611)
-				(xy 183.075932 131.484819) (xy 183.025586 131.4955) (xy 150.3785 131.4955) (xy 150.311461 131.475815)
-				(xy 150.265706 131.423011) (xy 150.2545 131.3715) (xy 150.2545 126.150609) (xy 150.274185 126.08357)
-				(xy 150.326989 126.037815) (xy 150.3785 126.026609) (xy 153.105672 126.026609) (xy 153.105688 126.02661)
-				(xy 153.113284 126.02661) (xy 165.555717 126.02661) (xy 165.555718 126.026609) (xy 165.676775 126.00253)
-				(xy 165.790811 125.955295) (xy 165.893441 125.88672) (xy 165.98072 125.799441) (xy 166.041813 125.708009)
-				(xy 166.095425 125.663204) (xy 166.144915 125.6529) (xy 166.588137 125.6529) (xy 167.135085 125.6529)
+				(xy 166.686488 125.693105) (xy 167.241652 125.934758) (xy 167.241663 125.93476) (xy 167.24254 125.935066)
+				(xy 167.243787 125.935686) (xy 167.245956 125.936631) (xy 167.245907 125.936742) (xy 167.270689 125.949081)
+				(xy 167.279984 125.955292) (xy 167.279995 125.955298) (xy 167.39402 126.002528) (xy 167.394025 126.00253)
+				(xy 167.515079 126.026609) (xy 167.515083 126.02661) (xy 167.515084 126.02661) (xy 179.95807 126.02661)
+				(xy 179.958079 126.026609) (xy 183.07941 126.026609) (xy 183.146449 126.046294) (xy 183.192204 126.099098)
+				(xy 183.203403 126.151887) (xy 183.149579 131.372778) (xy 183.129205 131.439611) (xy 183.075932 131.484819)
+				(xy 183.025586 131.4955) (xy 150.3785 131.4955) (xy 150.311461 131.475815) (xy 150.265706 131.423011)
+				(xy 150.2545 131.3715) (xy 150.2545 126.150609) (xy 150.274185 126.08357) (xy 150.326989 126.037815)
+				(xy 150.378495 126.026609) (xy 153.105671 126.026609) (xy 153.105689 126.02661) (xy 153.113284 126.02661)
+				(xy 165.758917 126.02661) (xy 165.758918 126.026609) (xy 165.879975 126.00253) (xy 165.994011 125.955295)
+				(xy 166.003278 125.949102) (xy 166.026957 125.937644) (xy 166.02676 125.93719) (xy 166.587509 125.693106)
+				(xy 166.656834 125.684399)
 			)
 		)
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
 				(xy 183.215749 119.324185) (xy 183.261504 119.376989) (xy 183.272703 119.429778) (xy 183.21888 124.650668)
-				(xy 183.198506 124.717501) (xy 183.145233 124.762709) (xy 183.094887 124.77339) (xy 167.724279 124.77339)
-				(xy 167.603232 124.797468) (xy 167.60322 124.797471) (xy 167.48919 124.844703) (xy 167.489187 124.844705)
-				(xy 167.386563 124.913276) (xy 167.386555 124.913282) (xy 167.299279 125.000558) (xy 167.238187 125.091991)
-				(xy 167.184575 125.136796) (xy 167.135085 125.1471) (xy 166.144915 125.1471) (xy 166.077876 125.127415)
-				(xy 166.041813 125.091991) (xy 165.98072 125.000558) (xy 165.893444 124.913282) (xy 165.893436 124.913276)
-				(xy 165.790812 124.844705) (xy 165.790809 124.844703) (xy 165.676779 124.797471) (xy 165.676767 124.797468)
-				(xy 165.55572 124.77339) (xy 165.555716 124.77339) (xy 153.113284 124.77339) (xy 153.113282 124.77339)
-				(xy 150.3785 124.77339) (xy 150.311461 124.753705) (xy 150.265706 124.700901) (xy 150.2545 124.64939)
-				(xy 150.2545 119.4285) (xy 150.274185 119.361461) (xy 150.326989 119.315706) (xy 150.3785 119.3045)
-				(xy 183.14871 119.3045)
+				(xy 183.198506 124.717501) (xy 183.145233 124.762709) (xy 183.094887 124.77339) (xy 167.515079 124.77339)
+				(xy 167.394032 124.797468) (xy 167.394024 124.79747) (xy 167.279991 124.844704) (xy 167.279989 124.844705)
+				(xy 167.270718 124.850899) (xy 167.247041 124.862356) (xy 167.247238 124.862808) (xy 166.686488 125.106891)
+				(xy 166.617163 125.115598) (xy 166.587508 125.106891) (xy 166.260684 124.964631) (xy 166.032346 124.86524)
+				(xy 166.032343 124.865239) (xy 166.032336 124.865236) (xy 166.031442 124.864925) (xy 166.030194 124.864304)
+				(xy 166.028042 124.863367) (xy 166.02809 124.863256) (xy 166.003314 124.850921) (xy 165.994011 124.844705)
+				(xy 165.879975 124.79747) (xy 165.879967 124.797468) (xy 165.75892 124.77339) (xy 165.758916 124.77339)
+				(xy 153.113284 124.77339) (xy 153.113282 124.77339) (xy 150.3785 124.77339) (xy 150.311461 124.753705)
+				(xy 150.265706 124.700901) (xy 150.2545 124.64939) (xy 150.2545 119.4285) (xy 150.274185 119.361461)
+				(xy 150.326989 119.315706) (xy 150.3785 119.3045) (xy 183.14871 119.3045)
 			)
 		)
 	)
