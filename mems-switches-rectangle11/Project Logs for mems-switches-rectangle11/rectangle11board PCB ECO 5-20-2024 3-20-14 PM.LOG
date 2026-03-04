@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetJ12_04 Pin=U2-2
+Removed Pin From Net: NetName=NetJ12_01 Pin=U2-9
+Removed Pin From Net: NetName=NetJ12_03 Pin=U2-16
+Removed Pin From Net: NetName=NetJ12_02 Pin=U2-21
+Removed Pin From Net: NetName=NetJ14_04 Pin=U4-2
+Removed Pin From Net: NetName=NetJ14_01 Pin=U4-9
+Removed Pin From Net: NetName=NetJ14_03 Pin=U4-16
+Removed Pin From Net: NetName=NetJ14_02 Pin=U4-21
+Added Pin To Net: NetName=NetJ12_01 Pin=U2-2
+Added Pin To Net: NetName=NetJ12_04 Pin=U2-9
+Added Pin To Net: NetName=NetJ12_02 Pin=U2-16
+Added Pin To Net: NetName=NetJ12_03 Pin=U2-21
+Added Pin To Net: NetName=NetJ14_01 Pin=U4-2
+Added Pin To Net: NetName=NetJ14_04 Pin=U4-9
+Added Pin To Net: NetName=NetJ14_02 Pin=U4-16
+Added Pin To Net: NetName=NetJ14_03 Pin=U4-21
+Added Member To Class: ClassName=rectangle11board Member=Component J11 TSW-104-07-G-S
+Added Member To Class: ClassName=rectangle11board Member=Component J13 TSW-104-07-G-S

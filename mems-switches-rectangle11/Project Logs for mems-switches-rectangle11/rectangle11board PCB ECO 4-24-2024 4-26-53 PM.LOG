@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U1 Old Footprint=MM5130 New Footprint=MM5130-NORM_PCB_NOFLOOD
+Change Component Footprint: Designator=U2 Old Footprint=MM5130 New Footprint=MM5130-NORM_PCB_NOFLOOD
+Change Component Footprint: Designator=U3 Old Footprint=MM5130 New Footprint=MM5130-NORM_PCB_NOFLOOD
+Change Component Footprint: Designator=U4 Old Footprint=MM5130 New Footprint=MM5130-NORM_PCB_NOFLOOD
+Change component parameters: Designator = "U1" ("U1"); Footprint = "MM5130"; UniqueID = "\AOHRKAXV" ("\AOHRKAXV")
+Change component parameters: Designator = "U2" ("U2"); Footprint = "MM5130"; UniqueID = "\PMOJETHP" ("\PMOJETHP")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "MM5130"; UniqueID = "\CLKGQOIY" ("\CLKGQOIY")
+Change component parameters: Designator = "U4" ("U4"); Footprint = "MM5130"; UniqueID = "\NZOQVPPB" ("\NZOQVPPB")

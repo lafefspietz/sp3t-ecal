@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=J1 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Comment : Designator=J1 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change component parameters: Designator = "J1" ("J1"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\KFVVEGBQ" ("\KFVVEGBQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=GND Pin=J1-gnd
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-14
+Added Net: Name=NetJ1_1

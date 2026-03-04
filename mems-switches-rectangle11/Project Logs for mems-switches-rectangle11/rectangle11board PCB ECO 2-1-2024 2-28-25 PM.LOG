@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetJ11_1 Pin=J11-1
+Removed Pin From Net: NetName=GND Pin=J11-2
+Removed Pin From Net: NetName=NetJ11_4 Pin=J11-4
+Removed Pin From Net: NetName=NetJ11_6 Pin=J11-6
+Removed Pin From Net: NetName=NetJ11_8 Pin=J11-8
+Change Footprint: Footprint Not Found SAMTEC_TFM-104-01-L-D
+Change Component Comment : Designator=J11 Old Comment=8 pin header New Comment=TFM-104-01-L-D
+Change component parameters: Designator = "J11" ("J11"); Footprint = "8 pin header"; UniqueID = "\ZLWHRJBM" ("\ZLWHRJBM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TFM-104-01-L-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J11-01
+Add Pin To Net: Unknown Pin: Pin J11-02
+Add Pin To Net: Unknown Pin: Pin J11-04
+Add Pin To Net: Unknown Pin: Pin J11-06
+Add Pin To Net: Unknown Pin: Pin J11-08
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ11_01
+Change Net Name : Old Net Name=NetJ11_4 New Net Name=NetJ11_04
+Change Net Name : Old Net Name=NetJ11_6 New Net Name=NetJ11_06
+Change Net Name : Old Net Name=NetJ11_8 New Net Name=NetJ11_08
+Added Pin To Net: NetName=NetJ11_03 Pin=U4-21
+Added Net: Name=NetJ11_03
+Added Pin To Net: NetName=NetJ11_05 Pin=U4-16
+Added Net: Name=NetJ11_05
+Added Pin To Net: NetName=NetJ11_07 Pin=U4-2
+Added Net: Name=NetJ11_07

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=R9-2
+Change Component Footprint: Designator=R9 Old Footprint=FP-ERJ1GN-IPC_C New Footprint=0201-resistor
+Change Component Comment : Designator=R9 Old Comment=ERJ-1GNF1001C New Comment=TE connectivity CPF0201B56K2E1
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=08DF83AB-02B6-49F6-B3F5-852D94670E6A New ItemGUID= Old RevisionGUID=B70AAC1D-6048-4DB3-AB45-C3689BB2E6DF New RevisionGUID=
+Change component parameters: Designator = "R9" ("R9"); Footprint = "FP-ERJ1GN-IPC_C"; UniqueID = "\PFPZNPRI" ("\PFPZNPRI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfgr"; Value = "TE connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfgr Part No."; Value = "CPF0201B56K2E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ1GN0R00C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U3-11
+Added Pin To Net: NetName=NetR9_2 Pin=U4-7
+Added Net: Name=NetR9_2

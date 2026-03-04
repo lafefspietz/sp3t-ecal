@@ -1,0 +1,59 @@
+Change Component Footprint: Designator=J11 Old Footprint=SAMTEC_TSW-108-07-G-S New Footprint=8 pin header
+Change Component Comment : Designator=J11 Old Comment=TSW-108-07-G-S New Comment=8 pin header
+Change component parameters: Designator = "J11" ("J11"); Footprint = "SAMTEC_TSW-108-07-G-S"; UniqueID = "\RQEKCPZS" ("\RQEKCPZS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Harwin Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "M20-9980445"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9980445/Harwin%20Inc./view-part/282788/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2122-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=NetJ3_S1 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=NetJ3_S1 Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=U1-9
+Added Pin To Net: NetName=NetJ11_1 Pin=U2-9
+Added Pin To Net: NetName=NetJ11_1 Pin=U3-9
+Added Pin To Net: NetName=NetJ11_1 Pin=U4-9
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Pin To Net: NetName=NetJ11_3 Pin=U4-21
+Added Net: Name=NetJ11_3
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ11_4 Pin=U1-2
+Added Pin To Net: NetName=NetJ11_4 Pin=U2-2
+Added Pin To Net: NetName=NetJ11_4 Pin=U3-2
+Added Net: Name=NetJ11_4
+Added Pin To Net: NetName=NetJ11_5 Pin=J11-5
+Added Pin To Net: NetName=NetJ11_5 Pin=U4-16
+Added Net: Name=NetJ11_5
+Added Pin To Net: NetName=NetJ11_6 Pin=J11-6
+Added Pin To Net: NetName=NetJ11_6 Pin=U1-21
+Added Pin To Net: NetName=NetJ11_6 Pin=U2-21
+Added Pin To Net: NetName=NetJ11_6 Pin=U3-21
+Added Net: Name=NetJ11_6
+Added Pin To Net: NetName=NetJ11_7 Pin=J11-7
+Added Pin To Net: NetName=NetJ11_7 Pin=U4-2
+Added Net: Name=NetJ11_7
+Added Pin To Net: NetName=NetJ11_8 Pin=J11-8
+Added Pin To Net: NetName=NetJ11_8 Pin=U1-16
+Added Pin To Net: NetName=NetJ11_8 Pin=U2-16
+Added Pin To Net: NetName=NetJ11_8 Pin=U3-16
+Added Net: Name=NetJ11_8
+Added Member To Class: ClassName=rectangle11board Member=Component J4 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J5 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J6 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J8 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J10 SMP-PX-P-XX-ST-TH2

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetB?_4 Pin=B?-4
+Removed Pin From Net: NetName=NetB?_11 Pin=B?-11
+Removed Pin From Net: NetName=NetJ?_G1 Pin=J?-G1
+Removed Pin From Net: NetName=NetJ?_G1 Pin=J?-G4
+Removed Pin From Net: NetName=NetB?_4 Pin=J?-S1
+Removed Pin From Net: NetName=NetB?_11 Pin=J?-S1
+Removed Pin From Net: NetName=NetB?_14 Pin=J?-S1
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Change Component Footprint: Designator=J? Old Footprint=SMP-PF-P-XX-ST-TH2 New Footprint=amphenol-smp-90deg-925-139J-51P
+Added Pin To Net: NetName=NetB?_4 Pin=B?-4
+Added Pin To Net: NetName=NetB?_11 Pin=B?-11
+Added Pin To Net: NetName=NetB?_11 Pin=B?-14
+Added Pin To Net: NetName=NetJ?_G1 Pin=J?-G1
+Added Pin To Net: NetName=NetJ?_G1 Pin=J?-G4
+Added Pin To Net: NetName=NetB?_4 Pin=J?-S1
+Added Pin To Net: NetName=NetB?_14 Pin=J?-S1
+Add Net: Net with name "NetB?_4" already exists
+Add Net: Net with name "NetB?_4" already exists
+Add Net: Net with name "NetB?_4" already exists
+Add Net: Net with name "NetB?_7" already exists
+Add Net: Net with name "NetB?_7" already exists
+Add Net: Net with name "NetB?_7" already exists
+Add Net: Net with name "NetB?_11" already exists
+Add Net: Net with name "NetB?_11" already exists
+Add Net: Net with name "NetB?_11" already exists
+Added Member To Class: ClassName=rectangle11board Member=Component B? MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component B? MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component B? MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J? SMP-PX-P-XX-ST-TH2

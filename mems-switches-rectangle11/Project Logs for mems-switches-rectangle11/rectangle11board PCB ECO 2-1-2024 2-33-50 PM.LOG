@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J11 Old Footprint=TFM-104 New Footprint=SAMTEC_TFM-104-01-L-D
+Added Pin To Net: NetName=NetJ11_01 Pin=J11-01
+Added Pin To Net: NetName=GND Pin=J11-02
+Added Pin To Net: NetName=NetJ11_03 Pin=J11-03
+Added Pin To Net: NetName=NetJ11_04 Pin=J11-04
+Added Pin To Net: NetName=NetJ11_05 Pin=J11-05
+Added Pin To Net: NetName=NetJ11_06 Pin=J11-06
+Added Pin To Net: NetName=NetJ11_07 Pin=J11-07
+Added Pin To Net: NetName=NetJ11_08 Pin=J11-08

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J11 Old Footprint=SAMTEC_TFM-104-01-L-D New Footprint=SAMTEC_TFM-104-02-L-D-K-TR
+Change Component Comment : Designator=J11 Old Comment=TFM-104-01-L-D New Comment=TFM-104-02-L-D-K-TR
+Change component parameters: Designator = "J11" ("J11"); Footprint = "SAMTEC_TFM-104-01-L-D"; UniqueID = "\KGTIKOYH" ("\KGTIKOYH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TFM-104-02-L-D-K-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

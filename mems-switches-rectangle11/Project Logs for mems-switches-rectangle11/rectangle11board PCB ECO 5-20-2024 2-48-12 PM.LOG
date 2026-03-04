@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=NetJ11_01 Pin=J11-01
+Removed Pin From Net: NetName=NetJ11_02 Pin=J11-02
+Removed Pin From Net: NetName=NetJ11_03 Pin=J11-03
+Removed Pin From Net: NetName=NetJ11_04 Pin=J11-04
+Removed Pin From Net: NetName=NetJ12_01 Pin=U1-2
+Removed Pin From Net: NetName=NetJ12_03 Pin=U1-16
+Removed Pin From Net: NetName=NetJ12_02 Pin=U2-2
+Removed Pin From Net: NetName=NetJ12_04 Pin=U2-16
+Removed Pin From Net: NetName=NetJ11_01 Pin=U3-2
+Removed Pin From Net: NetName=NetJ11_03 Pin=U3-16
+Removed Pin From Net: NetName=NetJ11_02 Pin=U4-2
+Removed Pin From Net: NetName=NetJ11_04 Pin=U4-16
+Change Component Footprint: Designator=J12 Old Footprint=SAMTEC_TFM-104-02-L-D-K-TR New Footprint=SAMTEC_TSW-104-07-G-S
+Change Component Comment : Designator=J12 Old Comment=TFM-104-02-L-D-K-TR New Comment=TSW-104-07-G-S
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Change component parameters: Designator = "J12" ("J12"); Footprint = "SAMTEC_TFM-104-02-L-D-K-TR"; UniqueID = "\TNQNOYFK" ("\TNQNOYFK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(SAMTEC_TSW-104-07-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(SAMTEC_TSW-104-07-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ11_01 Pin=J11-01
+Added Pin To Net: NetName=NetJ11_02 Pin=J11-02
+Added Pin To Net: NetName=NetJ11_03 Pin=J11-03
+Added Pin To Net: NetName=NetJ11_04 Pin=J11-04
+Added Pin To Net: NetName=NetJ11_01 Pin=U1-2
+Added Pin To Net: NetName=NetJ11_04 Pin=U1-9
+Added Pin To Net: NetName=NetJ11_02 Pin=U1-16
+Added Pin To Net: NetName=NetJ11_03 Pin=U1-21
+Added Pin To Net: NetName=NetJ12_04 Pin=U2-2
+Added Pin To Net: NetName=NetJ12_01 Pin=U2-9
+Added Pin To Net: NetName=NetJ12_03 Pin=U2-16
+Added Pin To Net: NetName=NetJ12_02 Pin=U2-21
+Added Pin To Net: NetName=NetJ13_01 Pin=J13-01
+Added Pin To Net: NetName=NetJ13_01 Pin=U3-2
+Added Net: Name=NetJ13_01
+Added Pin To Net: NetName=NetJ13_02 Pin=J13-02
+Added Pin To Net: NetName=NetJ13_02 Pin=U3-16
+Added Net: Name=NetJ13_02
+Added Pin To Net: NetName=NetJ13_03 Pin=J13-03
+Added Pin To Net: NetName=NetJ13_03 Pin=U3-21
+Added Net: Name=NetJ13_03
+Added Pin To Net: NetName=NetJ13_04 Pin=J13-04
+Added Pin To Net: NetName=NetJ13_04 Pin=U3-9
+Added Net: Name=NetJ13_04
+Added Pin To Net: NetName=NetJ14_01 Pin=J14-01
+Added Pin To Net: NetName=NetJ14_01 Pin=U4-9
+Added Net: Name=NetJ14_01
+Added Pin To Net: NetName=NetJ14_02 Pin=J14-02
+Added Pin To Net: NetName=NetJ14_02 Pin=U4-21
+Added Net: Name=NetJ14_02
+Added Pin To Net: NetName=NetJ14_03 Pin=J14-03
+Added Pin To Net: NetName=NetJ14_03 Pin=U4-16
+Added Net: Name=NetJ14_03
+Added Pin To Net: NetName=NetJ14_04 Pin=J14-04
+Added Pin To Net: NetName=NetJ14_04 Pin=U4-2
+Added Net: Name=NetJ14_04
+Added Member To Class: ClassName=rectangle11board Member=Component J14 TSW-104-07-G-S

@@ -1,0 +1,222 @@
+Removed Pin From Net: NetName=NetJ3_S1 Pin=J3-S1
+Removed Pin From Net: NetName=GND Pin=J4-G1
+Removed Pin From Net: NetName=GND Pin=J4-G2
+Removed Pin From Net: NetName=GND Pin=J4-G3
+Removed Pin From Net: NetName=GND Pin=J4-G4
+Removed Pin From Net: NetName=GND Pin=J5-G1
+Removed Pin From Net: NetName=GND Pin=J5-G2
+Removed Pin From Net: NetName=GND Pin=J5-G3
+Removed Pin From Net: NetName=GND Pin=J5-G4
+Removed Pin From Net: NetName=GND Pin=J6-G1
+Removed Pin From Net: NetName=GND Pin=J6-G2
+Removed Pin From Net: NetName=GND Pin=J6-G3
+Removed Pin From Net: NetName=GND Pin=J6-G4
+Removed Pin From Net: NetName=GND Pin=J7-G3
+Removed Pin From Net: NetName=GND Pin=J7-G4
+Change Component Footprint: Designator=J2 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J3 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J4 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J5 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J6 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J7 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J8 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Footprint: Designator=J9 Old Footprint=amphenol-smp-90deg-925-139J-51P New Footprint=rosenberger-19S201-40ML5
+Change Component Comment : Designator=J2 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J3 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J4 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J5 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J6 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J7 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J8 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change Component Comment : Designator=J9 Old Comment=SMP-PX-P-XX-ST-TH2 New Comment=SMP-right-angle-19S201-40ML5
+Change component parameters: Designator = "J2" ("J2"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\RCATKIAA" ("\RCATKIAA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\XVTFOZKW" ("\XVTFOZKW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\LFMYCPUP" ("\LFMYCPUP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\NMCINUCK" ("\NMCINUCK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\DBANSHFI" ("\DBANSHFI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\UCHIBDRF" ("\UCHIBDRF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\SSOBHHQI" ("\SSOBHHQI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "amphenol-smp-90deg-925-139J-51P"; UniqueID = "\BEVFUSKM" ("\BEVFUSKM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "853050232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/853050232/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/853050232/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3891CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=GND Pin=J2-gnd
+Added Pin To Net: NetName=NetJ3_S1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J3-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J4-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J5-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J6-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J7-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J8-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Added Pin To Net: NetName=GND Pin=J9-gnd
+Change Net Name : Old Net Name=NetJ3_S1 New Net Name=NetJ3_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-4
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U2-14
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U2-4
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U2-7
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U3-14
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=U3-4
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=U3-7
+Added Net: Name=NetJ9_1

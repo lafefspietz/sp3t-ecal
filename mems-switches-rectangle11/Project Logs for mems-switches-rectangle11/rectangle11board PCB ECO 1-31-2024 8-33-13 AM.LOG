@@ -1,0 +1,180 @@
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=B? NewDesignator=B2
+Change Component Designator: OldDesignator=B? NewDesignator=B3
+Change Component Designator: OldDesignator=B? NewDesignator=B4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Net Name : Old Net Name=NetB?_4 New Net Name=NetB1_4
+Change Net Name : Old Net Name=NetB?_7 New Net Name=NetB2_14
+Change Net Name : Old Net Name=NetB?_11 New Net Name=NetB1_14
+Change Net Name : Old Net Name=NetB?_14 New Net Name=NetB3_14
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B1-5
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=GND Pin=B1-8
+Added Pin To Net: NetName=GND Pin=B1-10
+Added Pin To Net: NetName=GND Pin=B1-12
+Added Pin To Net: NetName=GND Pin=B1-13
+Added Pin To Net: NetName=GND Pin=B1-15
+Added Pin To Net: NetName=GND Pin=B1-17
+Added Pin To Net: NetName=GND Pin=B1-18
+Added Pin To Net: NetName=GND Pin=B1-19
+Added Pin To Net: NetName=GND Pin=B1-20
+Added Pin To Net: NetName=GND Pin=B1-22
+Added Pin To Net: NetName=GND Pin=B1-23
+Added Pin To Net: NetName=GND Pin=B1-24
+Added Pin To Net: NetName=GND Pin=B1-25
+Added Pin To Net: NetName=GND Pin=B1-26
+Added Pin To Net: NetName=GND Pin=B1-27
+Added Pin To Net: NetName=GND Pin=B1-28
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-3
+Added Pin To Net: NetName=GND Pin=B2-5
+Added Pin To Net: NetName=GND Pin=B2-6
+Added Pin To Net: NetName=GND Pin=B2-8
+Added Pin To Net: NetName=GND Pin=B2-9
+Added Pin To Net: NetName=GND Pin=B2-10
+Added Pin To Net: NetName=GND Pin=B2-12
+Added Pin To Net: NetName=GND Pin=B2-13
+Added Pin To Net: NetName=GND Pin=B2-15
+Added Pin To Net: NetName=GND Pin=B2-17
+Added Pin To Net: NetName=GND Pin=B2-18
+Added Pin To Net: NetName=GND Pin=B2-19
+Added Pin To Net: NetName=GND Pin=B2-20
+Added Pin To Net: NetName=GND Pin=B2-22
+Added Pin To Net: NetName=GND Pin=B2-23
+Added Pin To Net: NetName=GND Pin=B2-24
+Added Pin To Net: NetName=GND Pin=B2-25
+Added Pin To Net: NetName=GND Pin=B2-26
+Added Pin To Net: NetName=GND Pin=B2-27
+Added Pin To Net: NetName=GND Pin=B2-28
+Added Pin To Net: NetName=GND Pin=B3-1
+Added Pin To Net: NetName=GND Pin=B3-3
+Added Pin To Net: NetName=GND Pin=B3-5
+Added Pin To Net: NetName=GND Pin=B3-6
+Added Pin To Net: NetName=GND Pin=B3-8
+Added Pin To Net: NetName=GND Pin=B3-10
+Added Pin To Net: NetName=GND Pin=B3-12
+Added Pin To Net: NetName=GND Pin=B3-13
+Added Pin To Net: NetName=GND Pin=B3-15
+Added Pin To Net: NetName=GND Pin=B3-17
+Added Pin To Net: NetName=GND Pin=B3-18
+Added Pin To Net: NetName=GND Pin=B3-19
+Added Pin To Net: NetName=GND Pin=B3-20
+Added Pin To Net: NetName=GND Pin=B3-22
+Added Pin To Net: NetName=GND Pin=B3-23
+Added Pin To Net: NetName=GND Pin=B3-24
+Added Pin To Net: NetName=GND Pin=B3-25
+Added Pin To Net: NetName=GND Pin=B3-26
+Added Pin To Net: NetName=GND Pin=B3-27
+Added Pin To Net: NetName=GND Pin=B3-28
+Added Pin To Net: NetName=GND Pin=B4-1
+Added Pin To Net: NetName=GND Pin=B4-3
+Added Pin To Net: NetName=GND Pin=B4-5
+Added Pin To Net: NetName=GND Pin=B4-6
+Added Pin To Net: NetName=GND Pin=B4-8
+Added Pin To Net: NetName=GND Pin=B4-10
+Added Pin To Net: NetName=GND Pin=B4-12
+Added Pin To Net: NetName=GND Pin=B4-13
+Added Pin To Net: NetName=GND Pin=B4-15
+Added Pin To Net: NetName=GND Pin=B4-17
+Added Pin To Net: NetName=GND Pin=B4-18
+Added Pin To Net: NetName=GND Pin=B4-19
+Added Pin To Net: NetName=GND Pin=B4-20
+Added Pin To Net: NetName=GND Pin=B4-22
+Added Pin To Net: NetName=GND Pin=B4-23
+Added Pin To Net: NetName=GND Pin=B4-24
+Added Pin To Net: NetName=GND Pin=B4-25
+Added Pin To Net: NetName=GND Pin=B4-26
+Added Pin To Net: NetName=GND Pin=B4-27
+Added Pin To Net: NetName=GND Pin=B4-28
+Added Pin To Net: NetName=GND Pin=J1-G1
+Added Pin To Net: NetName=GND Pin=J1-G2
+Added Pin To Net: NetName=GND Pin=J1-G3
+Added Pin To Net: NetName=GND Pin=J1-G4
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Pin To Net: NetName=GND Pin=J3-G1
+Added Pin To Net: NetName=GND Pin=J3-G2
+Added Pin To Net: NetName=GND Pin=J3-G3
+Added Pin To Net: NetName=GND Pin=J3-G4
+Added Pin To Net: NetName=GND Pin=J4-G1
+Added Pin To Net: NetName=GND Pin=J4-G2
+Added Pin To Net: NetName=GND Pin=J4-G3
+Added Pin To Net: NetName=GND Pin=J4-G4
+Added Pin To Net: NetName=GND Pin=J5-G1
+Added Pin To Net: NetName=GND Pin=J5-G2
+Added Pin To Net: NetName=GND Pin=J5-G3
+Added Pin To Net: NetName=GND Pin=J5-G4
+Added Pin To Net: NetName=GND Pin=J6-G1
+Added Pin To Net: NetName=GND Pin=J6-G2
+Added Pin To Net: NetName=GND Pin=J6-G3
+Added Pin To Net: NetName=GND Pin=J6-G4
+Added Pin To Net: NetName=GND Pin=J7-G1
+Added Pin To Net: NetName=GND Pin=J7-G2
+Added Pin To Net: NetName=GND Pin=J7-G3
+Added Pin To Net: NetName=GND Pin=J7-G4
+Added Pin To Net: NetName=GND Pin=J8-G1
+Added Pin To Net: NetName=GND Pin=J8-G2
+Added Pin To Net: NetName=GND Pin=J8-G3
+Added Pin To Net: NetName=GND Pin=J8-G4
+Added Pin To Net: NetName=GND Pin=J9-G1
+Added Pin To Net: NetName=GND Pin=J9-G2
+Added Pin To Net: NetName=GND Pin=J9-G3
+Added Pin To Net: NetName=GND Pin=J9-G4
+Added Pin To Net: NetName=GND Pin=J10-G1
+Added Pin To Net: NetName=GND Pin=J10-G2
+Added Pin To Net: NetName=GND Pin=J10-G3
+Added Pin To Net: NetName=GND Pin=J10-G4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_7 Pin=B1-7
+Added Pin To Net: NetName=NetB1_7 Pin=J5-S1
+Added Net: Name=NetB1_7
+Added Pin To Net: NetName=NetB1_11 Pin=B1-11
+Added Pin To Net: NetName=NetB1_11 Pin=J6-S1
+Added Net: Name=NetB1_11
+Added Pin To Net: NetName=NetB2_4 Pin=B2-4
+Added Pin To Net: NetName=NetB2_4 Pin=J1-S1
+Added Net: Name=NetB2_4
+Added Pin To Net: NetName=NetB2_7 Pin=B2-7
+Added Pin To Net: NetName=NetB2_7 Pin=J2-S1
+Added Net: Name=NetB2_7
+Added Pin To Net: NetName=NetB2_11 Pin=B2-11
+Added Pin To Net: NetName=NetB2_11 Pin=J3-S1
+Added Net: Name=NetB2_11
+Added Pin To Net: NetName=NetB3_4 Pin=B3-4
+Added Pin To Net: NetName=NetB3_4 Pin=B4-14
+Added Net: Name=NetB3_4
+Added Pin To Net: NetName=NetB4_4 Pin=B4-4
+Added Pin To Net: NetName=NetB4_4 Pin=J10-S1
+Added Net: Name=NetB4_4
+Added Pin To Net: NetName=NetB4_7 Pin=B4-7
+Added Pin To Net: NetName=NetB4_7 Pin=J9-S1
+Added Net: Name=NetB4_7
+Added Pin To Net: NetName=NetB4_11 Pin=B4-11
+Added Pin To Net: NetName=NetB4_11 Pin=J8-S1
+Added Net: Name=NetB4_11
+Added Member To Class: ClassName=rectangle11board Member=Component B1 MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component B3 MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component B4 MM5130-03NDB-TR
+Added Member To Class: ClassName=rectangle11board Member=Component J1 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J2 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J3 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J4 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J5 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J6 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J7 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J8 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J9 SMP-PX-P-XX-ST-TH2
+Added Member To Class: ClassName=rectangle11board Member=Component J10 SMP-PX-P-XX-ST-TH2
