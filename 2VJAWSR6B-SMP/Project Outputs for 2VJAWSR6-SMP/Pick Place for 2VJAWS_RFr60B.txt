@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+Z:\Anna\Altium\2V ACJVS\2V JAWS Rev6.0\2VJAWSR6-SMP\Project Outputs for 2VJAWSR6-SMP\Pick Place for 2VJAWS_RFr60B.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/12/25
+Time:       14:21
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator   Layer    Center-X(mil) Center-Y(mil) Rotation 
+Designator20 TopLayer -235.000      -300.000      168.5    
+Designator19 TopLayer 235.000       -300.000      191.5    
