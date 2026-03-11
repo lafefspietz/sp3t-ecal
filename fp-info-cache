@@ -1,4 +1,4 @@
-27227875292130402
+27229648531029128
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107925,6 +107925,13 @@ MOLEX_85305-0232
 0
 10
 2
+molex-smp
+jaws-molex-CONN_73415-3310_MOL
+
+
+0
+6
+5
 rosenberger-smp
 rosenberger-19S141-40ML5
 
